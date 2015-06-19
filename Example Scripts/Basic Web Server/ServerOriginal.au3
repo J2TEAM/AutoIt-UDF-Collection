@@ -11,7 +11,7 @@ Credits:
 
 ; // OPTIONS HERE //
 Dim $sRootDir = @ScriptDir & "\www\" ; The absolute path to the root directory of the server.
-Dim $sIP = '127.0.0.1' ; ip address as defined by AutoIt
+Dim $sIP = '127.0.0.1' ; Localhost
 Dim $iPort = 80 ; the listening port
 Dim $iMaxUsers = 15 ; Maximum number of users who can simultaneously get/post
 ; // END OF OPTIONS //
