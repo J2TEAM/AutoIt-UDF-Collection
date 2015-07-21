@@ -1,5 +1,5 @@
 #NoTrayIcon
-#include <Constants.au3>
+;~ #include <Constants.au3>
 
 ConsoleWrite(_GetDOSOutput('ping google.com'))
 
